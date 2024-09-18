@@ -1,3 +1,5 @@
+# ejercicio 1
+
 productos = ['Laptop', 'Tablet', 'Smartphone', 'Monitor', 'Teclado']
 ventas = [120, 150, 200, 80, 170]
 precios = [1000, 500, 700, 150, 50]
